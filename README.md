@@ -49,8 +49,3 @@ Detailed solution to the **One Sample Z-Test**, including hypothesis formulation
 
 ---
 
-## How to Use
-Clone this repository to your local machine to view the solutions:
-
-```bash
-git clone https://github.com/yourusername/statistics-assignment.git
